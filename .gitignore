@@ -1,0 +1,10 @@
+build/
+main/build/
+ideas
+.ccls*
+.ccls-cache
+.ccls
+.clang_complete
+.projectile
+build-scan/
+scan-build/
